@@ -108,13 +108,6 @@ Python Python Python
 
 ---
 
-## 👨‍💻 Autor
-**Leonardo Oliveira Gomes**  
-Estudante de Engenharia de Software no [Inatel](https://inatel.br)  
-💼 Formado em Inglês pelo **Celil**
-
----
-
 ## 🏁 Inspiração
 Projeto desenvolvido como prática de lógica de programação e fundamentos de Python, inspirado nos desafios da **DIO (Digital Innovation One)** 💡
 
